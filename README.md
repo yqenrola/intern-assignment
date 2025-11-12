@@ -120,7 +120,7 @@ export OPENAI_API_KEY=<<YOUR_OPENAI_API_KEY>>
     - Why you made your design choices
     - How to run and test your agent
     - Anything else you think we should know
-3. Email **yvette.quinby@enrola.com.au** with a link to your repo.
+3. Email us with a link to your repo.
 
 ---
 
